@@ -17,4 +17,4 @@ for (i = 0; i < x; i++) {
     }
 }
 
-document.write("En esta frace existen " + vocales + " Vocales");
+document.write("En esta frase existen " + vocales + " Vocales");
